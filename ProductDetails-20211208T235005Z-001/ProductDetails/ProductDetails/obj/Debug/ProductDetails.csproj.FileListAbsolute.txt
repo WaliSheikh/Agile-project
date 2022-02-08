@@ -1,0 +1,11 @@
+C:\Users\TEMP.CST.008\source\repos\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe.config
+C:\Users\TEMP.CST.008\source\repos\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe
+C:\Users\TEMP.CST.008\source\repos\ProductDetails\ProductDetails\bin\Debug\ProductDetails.pdb
+C:\Users\TEMP.CST.008\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csprojAssemblyReference.cache
+C:\Users\TEMP.CST.008\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.Details.resources
+C:\Users\TEMP.CST.008\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.ProductCategories.resources
+C:\Users\TEMP.CST.008\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.Properties.Resources.resources
+C:\Users\TEMP.CST.008\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csproj.GenerateResource.cache
+C:\Users\TEMP.CST.008\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.CST.008\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.exe
+C:\Users\TEMP.CST.008\source\repos\ProductDetails\ProductDetails\obj\Debug\ProductDetails.pdb
